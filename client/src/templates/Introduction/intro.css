@@ -2,6 +2,12 @@
   font-size: 1.17rem;
 }
 
+.super-block-intro-page {
+  margin-left: 0;
+  margin-right: 0;
+  max-width: 98%;
+}
+
 .big-subheading {
   font-size: 2rem;
   overflow-wrap: break-word;
